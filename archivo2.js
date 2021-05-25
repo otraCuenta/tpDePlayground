@@ -1,1 +1,1 @@
-let comida = ['milanga', 'guiso', 'sopa']
+let comida = ['milanga', 'guiso', 'sopa'], listaDeSuper = ['Pilas', 'Pan', 'Azucar']
