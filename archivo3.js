@@ -1,1 +1,1 @@
-let gatos1 = ['Cleopatra', 'Tolomeo', 'Selene', 'Negro', 'Minina', 'Mogumbito', 'Hitler'];
+let gatosFamilia1 = ['Cleopatra', 'Tolomeo', 'Selene', 'Negro', 'Minina', 'Mogumbito', 'Hitler'];

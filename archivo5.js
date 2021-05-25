@@ -1,1 +1,1 @@
-let gatos3 = ['Arcoiris', 'Pirata']
+let gatosFamilia3 = ['Arcoiris', 'Pirata']
