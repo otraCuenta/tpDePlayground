@@ -1,3 +1,4 @@
 let hola = 'Que onda', 
 chau = 'Nos vemos', 
-comoVa = 'Bien';
+comoVa = 'Bien',
+programar = 'en curso',
